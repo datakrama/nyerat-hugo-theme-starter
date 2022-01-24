@@ -20,7 +20,7 @@ permalinks:
 rssLimit: 100
 module:
   imports:
-    - path: github.com/datakrama/nyerat-hugo-theme
+    - path: github.com/hapakaien/hugo-themes/nyerat
 minify:
   tdewolff:
     html:
