@@ -7,7 +7,7 @@ of you who want to start using the [Nyerat] theme with minimal effort.
 
 Use this deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/datakrama/nyerat-hugo-theme-starter&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hapakaien/nyerat-hugo-theme-starter&stack=cms)
 
 This will set up everything needed for running the theme:
 
